@@ -59,11 +59,3 @@ Receipts are the product.
 
 ZTAR is a core StealthEye runtime primitive.
 Other tools may depend on ZTAR to establish execution truth.
-
----
-
-## Demo
-
-Interactive demonstration available on itch:
-
-https://stealtheyellc.itch.io/zero-trust-artifact-runtime-ztar
